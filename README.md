@@ -1,2 +1,3 @@
 # Hotel
-![image](https://github.com/Siggy28/Hotel/assets/116528510/3aaff1ef-7572-4f13-a58a-58cefc785c59)
+![image](https://github.com/Siggy28/Hotel/assets/116528510/6ce3d90b-2385-40e1-8a4f-52f1e8ab21ed)
+
